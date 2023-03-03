@@ -14,7 +14,6 @@ from math import ceil
 from json import loads
 from time import perf_counter
 
-DEVELOPER_KEY = input("Type your developer key \n").strip()
 
 def videos_id_formatter(sublist_of_50):
     string = ""
@@ -41,6 +40,7 @@ def sublists_of_50(videos):
     return Output
 
 def main():
+    DEVELOPER_KEY = input("Type your developer key \n").strip()
 
     type = input("What is the type ? \n"
                  "Channel : type 1 \n"
