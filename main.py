@@ -1,7 +1,7 @@
 #################################################
 #                                               #
 #   ItsBlueTiger2's Best YouTube Videos Ranker  #
-#   Utilizes scrapetube module by  ...          #
+#   Utilizes scrapetube module by dermasmid     #
 #                                               #
 #################################################
 
